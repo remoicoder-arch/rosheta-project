@@ -1,2 +1,2 @@
-# rosheta-project
-my project for rosheta
+# rosheta_project
+rosheta project
